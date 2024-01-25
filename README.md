@@ -17,6 +17,6 @@ They are the documentation of the steps and the process of building and configur
 Follow the guide for more information and details on the steps. 
 
 ### Repository Structure 
-<./Document> Documentation \ 
-<./Build and Configuration> Base Level Source Code for the movement and image recogntion of the robot \  
-<./Experimental Models> Re-enforcement Learning based model  \
+- <./Document> Documentation 
+- <./Build and Configuration> Base Level Source Code for the movement and image recogntion of the robot  
+- <./Experimental Models> Re-enforcement Learning based model  
